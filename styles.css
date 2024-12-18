@@ -53,11 +53,21 @@ nav .nav_links a{
   color: #fff;
   /* background: #323232; */
   padding: 10px;
+  transition: all 0.3s ease;
 }
 
 nav .nav_links a:hover {
   color: #9797a0;
 }
+
+.home {
+  height: 100%;
+  width: 100%;
+  background: url(/img/hello_img1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
 
 
 
